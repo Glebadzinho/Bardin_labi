@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\ALG_laba2_Bardin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E694709C-2A34-4D1F-9ED5-A48BA277F2E4}|ALG_laba2_Bardin.vcxproj|C:\\Users\\user\\source\\repos\\ALG_laba2_Bardin\\ALG_laba2_Bardin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E694709C-2A34-4D1F-9ED5-A48BA277F2E4}|ALG_laba2_Bardin.vcxproj|solutionrelative:ALG_laba2_Bardin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ALG_laba2_Bardin.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ALG_laba2_Bardin\\ALG_laba2_Bardin.cpp",
+              "RelativeDocumentMoniker": "ALG_laba2_Bardin.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ALG_laba2_Bardin\\ALG_laba2_Bardin.cpp",
+              "RelativeToolTip": "ALG_laba2_Bardin.cpp",
+              "ViewState": "AgIAAF8BAAAAAAAAAAAAAGgBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-09T20:27:58.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
